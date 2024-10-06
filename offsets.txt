@@ -1,0 +1,6 @@
+#define cGameOffset          0x51A82B0
+#define localplayerOffset   0x5235200
+#define hudOffset            0x51A3228
+#define yawOffset            0x51A68F8
+#define viewmatrix           0x5213E30
+#define allListData          0x52550B8
